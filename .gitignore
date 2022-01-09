@@ -1,3 +1,4 @@
+#Original
 Thumbs.db
 .DS_Store
 .dist
@@ -8,3 +9,9 @@ node_modules
 builds
 package-lock.json
  
+ 
+#Input
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
